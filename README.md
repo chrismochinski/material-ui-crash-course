@@ -45,11 +45,11 @@ MUI uses "Robato". Type this into the head section of your index.html to source 
 ...you'll end up putting lots more fun stuff between those.
 
 ---
-6. ## Now that that is there, put the following together and check out the BEFORE and AFTER:...
+6. ## Now that that is there, notice the blocks of text...one is native and one has a capitalized/teal MUI import...
 
 <img src="./mui-images/hellow.png" width="400"/><br />
 
-...these will producer similar things, but:
+...these will produce similar things, but:
 
 <img src="./mui-images/hwrender.png" width="400"/><br />
 
@@ -68,9 +68,9 @@ With that in mind, add this thing under that thing (it's a camera icon):
 
 If you haven't looked at the icon options, check this out and prepare to be dazzled: https://mui.com/components/material-icons/
 
-Yes, all of that is at your fingertips. Notice also the radio options on the left (outlined, etc)
+Yes, all of that is at your fingertips.
 
-Now that we're there, delete your dopey Hello World! thing and let's start making stuff. 
+Now that we're there, delete your Hello World! thing and let's start making stuff. 
 
 ---
 8. ## Throw in CssBaseline at the top of your component fire up a pretty baseline upon which to build.
