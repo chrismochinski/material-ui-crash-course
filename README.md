@@ -2,7 +2,8 @@
 
 #### <font color=gray> **NOTES:** 
 1. Not all of the following is copy/paste text. I personally feel that seeing the colors helps with association. Long, ridiculous stuff like a Google Font source WILL be copyable.
-2. I am NOT a Material UI expert. I am, however, a better learner via text and visuals than I am via YouTube, and I wanted to piece this together for those of you who are more like me. While I did indeed apply my own personality and creative spin to many elements here, I used other sources such as various articles and YouTube videos. The _primary_ info source I used to put this tutorial together was a JavaScript Mastery video that can be found [HERE](https://youtu.be/Xoz31I1FuiY).
+
+2. I am NOT a Material UI expert. I am, however, a better learner via text and visuals than I am via YouTube, and I wanted to piece this together for those of you who are more like me. Further, I found most of the MUI tutorials and guides out there to be more of a flex than a lesson. The bottom line: while I did indeed apply my own personality and creative spin to many elements here, I used other sources such as various articles and YouTube videos. The _primary_ info source I used to put this tutorial together was a JavaScript Mastery video that can be found [HERE](https://youtu.be/Xoz31I1FuiY).
 </font> <br />
 
 ---
